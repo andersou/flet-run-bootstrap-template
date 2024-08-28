@@ -1,0 +1,13 @@
+{
+  "out_dir": "",
+  "flutter": null,
+  "_copy_without_render": [
+    "windows/*",
+    "macos/*",
+    "linux/*",
+    "web/*",
+    "android/*",
+    "ios/*",
+    "assets/*"
+  ]
+}
